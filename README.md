@@ -1,10 +1,14 @@
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zfoosfe5nyunm7yk9et66u5iz)
 </div>
 
-&nbsp;<div align="center">
-  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mail.novac.dev/)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+&nbsp;<div >
+- 👋 Hi, I’m Mert
+- 🚀 DWH & ETL Developer
+- 📱 Learning Flutter & building awesome mobile apps
+- 🌟 Passionate about data engineering and mobile development
+- 📂 Check out my projects below
+- ✉ If you'd like to get in touch with me, you can reach me at --
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:md.mertdeniz@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/andrew-novac](https://www.linkedin.com/in/mert-deniz-7378b6239/))
 </div>
