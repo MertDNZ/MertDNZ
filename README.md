@@ -10,5 +10,5 @@
 - 📂 Check out my projects below
 - ✉ If you'd like to get in touch with me, you can reach me at --
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:md.mertdeniz@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/andrew-novac](https://www.linkedin.com/in/mert-deniz-7378b6239/))
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/mert-deniz-7378b6239/)
 </div>
